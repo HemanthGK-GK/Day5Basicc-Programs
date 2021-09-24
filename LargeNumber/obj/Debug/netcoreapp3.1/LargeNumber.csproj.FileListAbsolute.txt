@@ -1,0 +1,13 @@
+C:\Users\91807\Desktop\Batch67\LargeNumber\bin\Debug\netcoreapp3.1\LargeNumber.exe
+C:\Users\91807\Desktop\Batch67\LargeNumber\bin\Debug\netcoreapp3.1\LargeNumber.deps.json
+C:\Users\91807\Desktop\Batch67\LargeNumber\bin\Debug\netcoreapp3.1\LargeNumber.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\LargeNumber\bin\Debug\netcoreapp3.1\LargeNumber.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\LargeNumber\bin\Debug\netcoreapp3.1\LargeNumber.dll
+C:\Users\91807\Desktop\Batch67\LargeNumber\bin\Debug\netcoreapp3.1\LargeNumber.pdb
+C:\Users\91807\Desktop\Batch67\LargeNumber\obj\Debug\netcoreapp3.1\LargeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\LargeNumber\obj\Debug\netcoreapp3.1\LargeNumber.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\LargeNumber\obj\Debug\netcoreapp3.1\LargeNumber.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\LargeNumber\obj\Debug\netcoreapp3.1\LargeNumber.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\LargeNumber\obj\Debug\netcoreapp3.1\LargeNumber.dll
+C:\Users\91807\Desktop\Batch67\LargeNumber\obj\Debug\netcoreapp3.1\LargeNumber.pdb
+C:\Users\91807\Desktop\Batch67\LargeNumber\obj\Debug\netcoreapp3.1\LargeNumber.genruntimeconfig.cache
