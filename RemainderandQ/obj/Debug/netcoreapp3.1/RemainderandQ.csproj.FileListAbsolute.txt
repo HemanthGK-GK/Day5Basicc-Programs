@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\RemainderandQ\bin\Debug\netcoreapp3.1\RemainderandQ.exe
+C:\Users\91807\Desktop\Batch67\RemainderandQ\bin\Debug\netcoreapp3.1\RemainderandQ.deps.json
+C:\Users\91807\Desktop\Batch67\RemainderandQ\bin\Debug\netcoreapp3.1\RemainderandQ.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\RemainderandQ\bin\Debug\netcoreapp3.1\RemainderandQ.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\RemainderandQ\bin\Debug\netcoreapp3.1\RemainderandQ.dll
+C:\Users\91807\Desktop\Batch67\RemainderandQ\bin\Debug\netcoreapp3.1\RemainderandQ.pdb
+C:\Users\91807\Desktop\Batch67\RemainderandQ\obj\Debug\netcoreapp3.1\RemainderandQ.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\RemainderandQ\obj\Debug\netcoreapp3.1\RemainderandQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\RemainderandQ\obj\Debug\netcoreapp3.1\RemainderandQ.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\RemainderandQ\obj\Debug\netcoreapp3.1\RemainderandQ.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\RemainderandQ\obj\Debug\netcoreapp3.1\RemainderandQ.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\RemainderandQ\obj\Debug\netcoreapp3.1\RemainderandQ.dll
+C:\Users\91807\Desktop\Batch67\RemainderandQ\obj\Debug\netcoreapp3.1\RemainderandQ.pdb
+C:\Users\91807\Desktop\Batch67\RemainderandQ\obj\Debug\netcoreapp3.1\RemainderandQ.genruntimeconfig.cache
